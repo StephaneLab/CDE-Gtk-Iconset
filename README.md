@@ -9,5 +9,7 @@ see : https://specifications.freedesktop.org/icon-naming-spec/icon-naming-spec-l
 I have used icewm-menu-fdo to create my menu, it respect FreeDesktop naming but to me it creates too long paths to get to an application.
 So I simplified the config file by hand. It's quite easy to get something really efficient.
 
+You will also find some XPM icons to put in your ~/.icewm/icons directory to enhance your icewm menu.
+
 Stéphane
 10 03 2022
